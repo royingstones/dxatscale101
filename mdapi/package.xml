@@ -11,6 +11,7 @@
   </types>
   <types>
     <name>ApexClass</name>
+    <members>ContactController</members>
     <members>PagedResult</members>
     <members>PropertyController</members>
     <members>SampleDataController</members>
@@ -98,6 +99,7 @@
     <members>Property__c.Thumbnail__c</members>
     <members>Property__c.Title__c</members>
     <members>Property__c.Zip__c</members>
+    <members>Property__c.Features__c</members>
   </types>
   <types>
     <name>ListView</name>
